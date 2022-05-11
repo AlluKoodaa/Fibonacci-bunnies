@@ -1,4 +1,4 @@
-#--AlluKoodaa--#
+#----AlluKoodaa----#
 
 ## Fibonacci Bunnies
 
@@ -25,4 +25,4 @@ during given time period.""")
 
 main()
 
-#--eof--#
+#----eof----#
